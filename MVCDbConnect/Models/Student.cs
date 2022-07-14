@@ -11,6 +11,6 @@ namespace MVCDbConnect.Models
 
         public int Age { get; set; }
         
-        public int Rank { get; set; }
+        public string Depaertment { get; set; }
     }
 }
